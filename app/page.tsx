@@ -89,7 +89,7 @@ export default function Home() {
           </div>
         )}
         <a
-          href="/CV_Ștefan_Matei_en (1).pdf"
+          href="/CV_Ștefan_Matei_en.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
